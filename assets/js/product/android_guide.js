@@ -1,0 +1,12 @@
+var guideCortroler={data:{clickCount:!1},methods:{dialog:function($obj,param){this.$obj=$obj||null;this.param=param||null;this.count=0},createDialog:function(){this.dialog.prototype={init:function(type){var _this=this;switch(type){case 'suspend':_this.clickBtn(_this.param.$isFixedIcon,function(){_this.open()})
+_this.clickBtn(_this.param.$titleIconMobile,function(){_this.close()})
+break;case 'alert':_this.clickBtn(_this.param.$contentChoice,function(){if(_this.count){_this.param.$bodyTip.removeClass('success').addClass('warning');_this.param.$bodyMes.html(_this.param.bodyMesContent)}
+_this.open();_this.count++},'button')
+_this.clickBtn(_this.param.$dialogBody,function(){_this.close()},'button')
+break;default:break}},clickBtn:function($target,fn,btnClass){var btnClass=btnClass||'',fn=fn||function(){},$target=$target||null;$target.off('click').on('click',btnClass,fn)},open:function(){this.$obj.removeClass('close').addClass("open")},close:function(){this.$obj.removeClass('open').addClass("close")}}
+return window.Dialog=this.dialog},stoken:function(){if(commonMethods.cookie.getCookie("stoken")){$('.sign_up').each(function(){$(this).attr('href',$(this).attr(':data-url'))})}},tabSwitch:function(){var scrollTop=$(window).scrollTop(),showHeight=$("#step").offset()?$("#step").offset().top:0;leftMenu()
+scrollItem($(".three-steps"),$(".steps-item .step-n"),$(".anchor-steps ul li"));$(window).scroll(function(){scrollTop=$(window).scrollTop();leftMenu();scrollItem($(".three-steps"),$(".steps-item .step-n"),$(".anchor-steps ul li"))})
+function leftMenu(){if(scrollTop>showHeight-550&&$(".footer").offset().top>scrollTop+950&&document.body.offsetWidth>1024){$(".anchor-steps").show()}else{$(".anchor-steps").hide()}}
+function scrollItem(_$menuHeight,_$menu,_$item){var scrollItemTops=[],activeIndex=0,menuHeight=_$menuHeight.height(),top=$(window).scrollTop();_$menu.each(function(index){var itemTop=$(this).offset().top;scrollItemTops[index]=itemTop});for(var i=0;i<scrollItemTops.length;i++){if(top+1>=scrollItemTops[i]){activeIndex=i}}
+_$item.removeClass("curr");_$item.eq(activeIndex).addClass("curr")}}},main:function(){this.methods.tabSwitch();this.methods.stoken();this.methods.createDialog()}}
+guideCortroler.main();new Dialog($(".content-dialog"),{$contentChoice:$("#content-choice"),$bodyTip:$("#dialog-body .body-tip"),$bodyMes:$("#dialog-body .body-mes"),bodyMesContent:'You have already submitted!',$dialogBody:$('#dialog-body'),}).init('alert')

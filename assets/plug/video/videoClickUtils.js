@@ -1,0 +1,1 @@
+$(".sec-bg-video").fancybox({'width':'auto','height':'auto','autoScale':!1,'transitionIn':'none','transitionOut':'none','afterClose':function(){$('#video-iframe').attr("src","")}});$(".sec-bg-video").click(function(){let width=$(window).width()<900?'100%':900;$('#video-iframe').attr("src",$(this).attr("src")+"?autoplay=1&rel=0").attr('width',width)})

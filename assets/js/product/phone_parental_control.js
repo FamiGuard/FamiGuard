@@ -1,0 +1,4 @@
+var dataLayer=window.dataLayer=window.dataLayer||[];dataLayer.push({'event':'Product_Detail','ecommerce':{'detail':{'products':[{'name':'FamiGuard','variant':'FamiGuard'}]}}});var swiper=new Swiper('.swiper-container',{pagination:{el:'.swiper-pagination',clickable:!0},navigation:{nextEl:".online-danger-next",prevEl:".online-danger-prev",},on:{slideChange:function(){$('.online-danger .fold').eq(this.activeIndex).addClass('active').siblings().removeClass('active')}},});$('.fold .fold-title').click(function(){var $parent=$(this).parent();$parent.toggleClass('active').siblings().removeClass('active');swiper.slideTo($(this).attr('data-index'))})
+$('.may-list li').eq(0).find('.desc').slideDown()
+$('.may-list li .title-a').click(function(){var $parent=$(this).parent()
+$parent.toggleClass('active').siblings().removeClass('active');$parent.find('.desc').slideToggle().parent('li').siblings().find('.desc').slideUp()})

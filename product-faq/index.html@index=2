@@ -1,0 +1,1202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FamiGuard Support Center - Product FAQs</title>
+    <meta name="description" content="FAQs about FamiGuard's product installation, setup, use and more.">
+    <meta name="keywords" content="product faq">
+    
+     <link rel="canonical" href="index.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<!-- Google Tag Manager  -->
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-TXRSGL9');
+</script>
+<!-- End Google Tag Manager -->
+<link rel="shortcut icon" href="https://images.imyfone.com/famiguarden/assets/common/favicon.ico" type="image/x-icon">
+
+
+<link rel="stylesheet" href="../assets/css/common.css">
+    <link rel="stylesheet" href="../assets/css/support/question.css">
+    
+</head>
+
+<body>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TXRSGL9" height="0" width="0"
+    style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="mobile_header">
+    <a href="javascript:void(0)" class="menu_btn">
+        <!-- <span class="glyphicon glyphicon-th-large"></span> -->
+        <span class="icon icon-menu"></span>
+    </a>
+    <ul class="nav clickMenu_show_nav">
+        <li>
+            <div class="nav-btn-v2-login nav-down" style="display: none;">
+                <a href="index.html@index=2#" class="nva-login-a">
+                    <img src="https://images.imyfone.com/famiguarden/assets/common/header/avatar.png" alt="avatar">
+                    <span class="products-menu glyphicon glyphicon-menu-down"></span>
+                </a>
+                <ul class="products-ul products-show" style="display: none;">
+                    <li><a href="https://panel.famiguard.com/wizard/my-products">My Products</a></li>
+                    <li><a href="https://panel.famiguard.com/profile/change-notification-email">Profile</a></li>
+                    <li><a href="../contact-us/index.html">Contact Us</a></li>
+                    <li><a href="javascript:;" class="logOut">Log out</a></li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+    <div class="logo_box">
+        <a href="../index.html">
+            <img src="https://images.imyfone.com/famiguarden/assets/common/header/famiguard_logo.svg" alt="famiguard">
+        </a>
+    </div>
+</div>
+<div class="mobile_menuBox clickMenu_show_nav">
+    <div class="top">
+        <a href="javascript:;" class="menu_btn_close btn_close"><span class="icon-close"></span></a>
+    </div>
+    <div class="cont">
+        <ul class="nav">
+            <li class="nav-down">
+                <a href="javascript:;">Products<span class="products-menu glyphicon"></span></a>
+                <ul class="products-ul products products-show" style="display: none;">
+                    <li>
+                        <div class="monitor monitor-android">
+                            <span class="products_title android_logo">Monitor</span>
+                            <p class="products_text">
+                                <a href="../android-parental-control/index.html">FamiGenius Pro for Android</a>
+                                <span class="right-arrow"></span>
+                            </p>
+                            <p class="desc">
+                                All-in-one Invisible Android Monitoring
+                            </p>
+                            <p class="products_text">
+                                <a href="../whatsapp-monitoring/index.html">FamiGenius for WhatsApp</a>
+                                <span class="right-arrow"></span>
+                            </p>
+                            <p class="desc">
+                                Special WhatsApp Monitoring
+                            </p>
+                            <p class="products_text">
+                                <a href="../phone-parental-control/index.html">FamiGuard</a>
+                                <span class="right-arrow"></span>
+                            </p>
+                            <p class="desc">
+                                Best Parental Control App
+                            </p>
+                            
+                        </div>
+                        
+                    </li>
+                </ul>
+            </li>
+            <li><a href="../features-overview/index.html">Features</a></li>
+            <li><a href="https://panel.famiguard.com/demo" target="_blank">Demo</a></li>
+            <li><a href="../store/index.html">Store</a></li>
+            <li><a href="../support-center/index.html">Support</a></li>
+            <li class="nav-btn-login-text"><a href="https://panel.famiguard.com/login">Login</a></li>
+        </ul>
+        <div class="nav-btn-v2">
+            <a href="https://panel.famiguard.com/sign-up" class="register-btn toggle-sign-up" style="display: inline-block;">Sign Up Free</a>
+        </div>
+        <div class="search_box">
+            <form action="https://www.famiguard.com/search/" id="topmenu_search_from" target="_parent">
+                <div class="search_t">
+                    <input name="cx" value="9b6b3c3598ab04f8e" type="hidden">
+                    <input name="cof" value="FORID:10" type="hidden">
+                    <input name="ie" value="UTF-8" type="hidden">
+                    <input value="" name="q" id="topmenu_search_keyword" class="text ac_input" placeholder="Search" size="10" autocomplete="off" type="text">
+                </div>
+                <label for="topmenu_search_submit">
+                    <span class="searchBtn_icon search_icon" aria-hidden="true"></span>
+                    <input name="sa" class="rel_pro_btn searchBtn" id="topmenu_search_submit" value="Search" type="submit">
+                </label>
+            </form>
+        </div>
+    </div>
+</div>
+<!--end mobile menu-->
+
+<div class="header header-nav-scroll">
+    <div class="container container-md flexible flex-justify-between">
+        <div class="logo-box">
+            <a href="../index.html">
+                <img src="https://images.imyfone.com/famiguarden/assets/common/header/famiguard_logo.svg" alt="famiguard">
+            </a>
+            
+        </div>
+        <div class="navbar flexible flex-justify-end">
+            <ul class="nav clickMenu_show_nav">
+                <li class="nav-down">
+                    <a href="javascript:;" class="check_list">Products</a>
+                    <div class="products-category products products-show">
+                        <div class="containers nav-container">
+                            <ul class="products-desc">
+                                <li>
+                                    <div class="product-nav-wrap">
+                                        <span class="products_title monitor_logo">Monitor</span>
+                                        <p class="products_text android_logo">
+                                            <a href="../android-parental-control/index.html">FamiGenius Pro for Android</a>
+                                            <span class="hot-icon"></span>
+                                        </p>
+                                        <p class="desc">
+                                            All-in-one Invisible Android Monitoring
+                                        </p>
+                                        <p class="products_text android_logo">
+                                            <a href="../whatsapp-monitoring/index.html">FamiGenius for WhatsApp</a>
+                                        </p>
+                                        <p class="desc">
+                                            Special WhatsApp Monitoring
+                                        </p>
+                                        <p class="products_text android_logo">
+                                            <img class="apple-icon" src="https://images.imyfone.com/famiguarden/assets/common/header/apple_icon.svg" alt="apple_icon">
+                                            <a href="../phone-parental-control/index.html">FamiGuard</a>
+                                        </p>
+                                        <p class="desc">
+                                            Best Parental Control App
+                                        </p>
+                                        
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+                <li><a href="../features-overview/index.html">Features</a></li>
+                <li><a href="https://panel.famiguard.com/demo" target="_blank">Demo</a></li>
+                <li><a href="../store/index.html">Store</a></li>
+                <li><a href="../support-center/index.html">Support</a></li>
+                <li class="nav-btn-login-text"><a href="https://panel.famiguard.com/login">Login</a></li>
+
+            </ul>
+            <div class="nav-btn-v2">
+                <a href="https://panel.famiguard.com/sign-up" class="register-btn toggle-sign-up" style="display: inline-block;">Sign Up</a>
+            </div>
+
+            <div class="public-icon search-btn">
+                <a href="javascript:void(0)" class="search-btn-click"></a>
+            </div>
+
+            <div class="search_box" style="display: none;">
+                <form action="https://www.famiguard.com/search/" id="top_search_from" target="_parent">
+                    <div class="search_t">
+                        <input name="cx" value="9b6b3c3598ab04f8e" type="hidden">
+                        <input name="cof" value="FORID:10" type="hidden">
+                        <input name="ie" value="UTF-8" type="hidden">
+                        <input value="" name="q" id="top_search_keyword" class="text ac_input" placeholder="Search" size="10" autocomplete="off" type="text">
+                    </div>
+                    <span class="searchBtn_icon glyphicon glyphicon-search" aria-hidden="true"></span>
+                    <input name="sa" class="rel_pro_btn searchBtn" value="Search" type="submit">
+                </form>
+                <span class="pchide"></span>
+            </div>
+
+            <ul class="nav clickMenu_show_nav">
+                <li>
+                    <div class="nav-btn-v2-login nav-down" style="display: none;">
+                        <a href="index.html@index=2#" class="nva-login-a check_list">
+                            <img src="https://images.imyfone.com/famiguarden/assets/common/header/avatar.png" alt="avatar">
+                        </a>
+                        <ul class="products-ul products-show" style="display: none;">
+                            <li><a href="https://panel.famiguard.com/wizard/my-products">My Products</a></li>
+                            <li><a href="https://panel.famiguard.com/profile/change-notification-email">Profile</a></li>
+                            <li><a href="../contact-us/index.html">Contact Us</a></li>
+                            <li><a href="javascript:;" class="logOut">Log out</a></li>
+                        </ul>
+                    </div>
+                </li>
+            </ul>
+
+        </div>
+    </div>
+</div>
+    <div class="question olhide">
+            <div class="top-banner text-center">
+                <div class="container">
+                    <h1>FamiGuard Support Center - Product FAQs</h1>
+                    <p class="desc">If you get any problem of FamiGuard's products, you can find the answer here.</p>
+                </div>
+            </div>
+            <div class="container flexible question_msg">
+                <div class="left-menu">
+    <div class="guide-left">
+        <h2><a href="../support-center/index.html">Support Center</a></h2>
+        <ul class="left-nav">
+            <li class="left-nav-down purchase-faq">
+                <a href="javascript:;" class="check-list">Purchase FAQs<span
+                        class="select-arrow"></span></a>
+                <ul class="sub-ul purchase-faqs-list">
+                    <li><a href="javascript:;" class="presale"
+                            data-url="/purchase-faq/">Presale</a></li>
+                    <li><a href="javascript:;" class="aftersales"
+                            data-url="/purchase-faq/">After-sales</a></li>
+                </ul>
+            </li>
+            <li class="left-nav-down product-faq">
+                <a href="javascript:;" class="check-list">Product FAQs<span
+                        class="select-arrow"></span></a>
+                <ul class="sub-ul product-faqs-list">
+                    <li><a href="javascript:;" class="android" data-url="/product-faq/">FamiGenius Pro for Android</a></li>
+                    <li><a href="javascript:;" class="whatsapp" data-url="/product-faq/">FamiGenius for WhatsApp</a></li>
+                    <li><a href="javascript:;" class="famiguard" data-url="/product-faq/">FamiGuard</a></li>
+                </ul>
+            </li>
+            <li class="account-faq"><a href="../account-faq/index.html">Account & Settings</a></li>
+            <li class="uninstall-faq"><a href="../uninstall-faq/index.html">Uninstall</a></li>
+        </ul>
+    </div>
+    <div class="menu-open">
+        <img src="https://images.imyfone.com/famiguarden/assets/common/faq/menu_open.svg" alt="menu_open">
+    </div>
+</div>
+                <div class="right-content">
+                    <div class="guide-right" id="android" style="">
+                        <div class="note-wrap" style="display: flex;">
+                            <div class="note-icon">!</div>
+                            <div class="note-right">
+                                <div class="note-title">Quick Tour: </div>
+                                <div class="note-text">
+                                    <p>Q1-Q10: Installation Related FAQs</p>
+                                    <p>Q11-Q17: Features Related FAQs</p>
+                                    <p>Q18-Q28: Update &amp; Uninstall Related FAQs</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p curr">1. Is FamiGenius Pro for Android safe to use?</p>
+                            <div class="faqs-msg" style="display: block;">
+                                <p>This phone tracker app is 100% virus free, and all user data is encrypted and
+                                    protected. So you can use it safely without data leakage.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">2. Do I need to root the target device first?</p>
+                            <div class="faqs-msg">
+                                <p>No, there is no need to root the target device before using this phone
+                                    monitoring app.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">3. What is required to use FamiGenius Pro for Android?</p>
+                            <div class="faqs-msg">
+                                <p>(1) One-time physical access to the target device is required to install
+                                    FamiGenius Pro for Android.</p>
+                                <p>(2) You need to purchase a license to activate the full service.</p>
+                                <p>(3) The target Android device must have internet connection to upload data.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">4. How does FamiGenius Pro for Android work?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius Pro for Android collects the data by installing a host program on
+                                    the target phone and uploads the data to your account, which you can monitor
+                                    remotely on the online dashboard.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">5. Is FamiGenius Pro for Android undetectable?</p>
+                            <div class="faqs-msg">
+                                <p>Yes. The app icon will disappear on the monitored Android device after the
+                                    installation process, and FamiGenius Pro for Android is also renamed in the
+                                    phone, making the target hard to find and delete it. As for Android 10+, the
+                                    app icon will be replaced by another icon, which will only make users think
+                                    it is the default software of the system.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">6. Does FamiGenius Pro for Android consume lots of battery power on
+                                the monitored device?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius Pro for Android adopts advanced technology, so it does not consume
+                                    too much battery power.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">7. Is FamiGenius Pro for Android compatible with the device I want
+                                to monitor?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius Pro for Android is compatible with all major phones and tablets
+                                    running Android 4.4 to Android 13, including Huawei, Samsung, Google, LG and
+                                    Xiaomi.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">8. I use iPhone and the target uses Android phone, can I still
+                                monitor it?</p>
+                            <div class="faqs-msg">
+                                <p>Yes, if the target uses Android device, you can install FamiGuard Pro for
+                                    Android on that phone, and then monitor its online activities secretly on
+                                    your iPhone.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">9. Can I monitor the target Android phone by phone number or IMEI?
+                            </p>
+                            <div class="faqs-msg">
+                                <p>No, you need to install FamiGenius Pro for Android on the target device and
+                                    then start monitoring.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">10. Can I install FamiGuard for Android remotely?</p>
+                            <div class="faqs-msg">
+                                <p>I'm afraid that you need to have one-time physical access to the target
+                                    device to install the Android monitoring app.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">11. What are the main features of FamiGenius Pro for Android?</p>
+                            <div class="faqs-msg">
+                                <p>(1) Check contacts, text messages, photos, videos, browser history and
+                                    installed apps on the target device.</p>
+                                <p>(2) Track accurate GPS location of the target Android in real time.</p>
+                                <p>(3) Monitor messages from popular social media apps, including shared photos,
+                                    emojis and stickers.</p>
+                                <p>(4) Take photos remotely and record all the phone calls made on the target
+                                    Android device.</p>
+                                <p>Try the <a href="https://panel.famiguard.com/demo/my-products"
+                                        target="_blank">free demo</a> if you want to experience all features.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">12. Can I track the cell phone location in real time?</p>
+                            <div class="faqs-msg">
+                                <p>Yes, you can track the current location and location history of the target.
+                                    If the location info is not updated, you can click the 'Sync" button near to
+                                    the ‘Location’ to sync the latest data.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">13. How long does it take for the updated data to display in the
+                                online control panel?</p>
+                            <div class="faqs-msg">
+                                <p>The timeliness for FamiGuard Pro to upload data depends on the size of files
+                                    on the target Android device. Basically it takes 5-10 minutes to display the
+                                    recorded data on the online control panel.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">14. What if the data is not updated?</p>
+                            <div class="faqs-msg">
+                                <p>Please make sure the target Android phone is powered on with internet
+                                    connection. Also the FamiGenius Pro for Android shall be active on the
+                                    device. You can click the “Permissions Check” on the online control panel to
+                                    see if certain permissions are turned off. If so, you need to open them
+                                    accordingly as the instruction shows. For uploading the latest data, there
+                                    may be a slight delay when the network signal is weak. If the data is still
+                                    not updated, please try to restart the target phone.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">15. Why am I not seeing any social media chats from the target
+                                Android?</p>
+                            <div class="faqs-msg">
+                                <p>First, please make sure the target person has the social app installed on the
+                                    target phone. And then, you need to turn on notifications permissions on the
+                                    target Android phone. Moreover, FamiGenius Pro for Android must be active on
+                                    the target phone.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">16. Is there any limitation on uploading data on the control
+                                panel?</p>
+                            <div class="faqs-msg">
+                                <p>There is no limitation to the upload of the target device's data. In other
+                                    words, all the monitored data will be uploaded to the control panel.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">17. Can I check the updated data from another device?</p>
+                            <div class="faqs-msg">
+                                <p>You can use your account to log in and view all the updated data from any
+                                    device.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">18. How do I check whether the current version of FamiGuard Pro
+                                for Android is the latest one?</p>
+                            <div class="faqs-msg">
+                                <p>Just get hold the target Android phone, and go to Settings &gt; Applications
+                                    &gt; System Update Service to check the current version number.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">19. How to update FamiGenius Pro for Android to the latest version?
+                            </p>
+                            <div class="faqs-msg">
+                                <p>To update FamiGenius Pro for Android to the latest version, you need to
+                                    uninstall the current one on the target device first. Just go to Settings
+                                    &gt; Applications&gt; System Update Service to uninstall the app. Then
+                                    restart the cell phone to make sure the app has been fully removed. At last,
+                                    visit the download website (an.famiguardapp.com) on the target Android phone
+                                    to download the latest version of the app.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">20. Is the data uploaded from the old version still available
+                                after the upgrade?</p>
+                            <div class="faqs-msg">
+                                <p>Yes, don’t worry, the previous device data is still there.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">21. Do I need to reinstall FamiGenius Pro for Android if the phone
+                                number of the target device is changed?</p>
+                            <div class="faqs-msg">
+                                <p>No, you don’t need to reinstall the Android monitor app in that case,
+                                    however, it should be noted that those data related to the old number, such
+                                    as call logs, will not be updated any more.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">22. Do I need to reinstall FamiGenius Pro for Android if the target
+                                device is changed to another?</p>
+                            <div class="faqs-msg">
+                                <p>Yes, you need to unbind the previous device first before adding a new one,
+                                    and reinstall this Android monitoring software on the new phone or tablet.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">23. Do I have to upgrade FamiGenius Pro for Android on the target
+                                phone?</p>
+                            <div class="faqs-msg">
+                                <p>Not necessary. But the new version is more stable and has a better
+                                    experience, so we strongly recommend that you upgrade the app to the latest
+                                    version.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">24. How to uninstall FamiGenius Pro for Android?</p>
+                            <div class="faqs-msg">
+                                <p>You need to get hold the target Android phone and go to Settings &gt;
+                                    Applications&gt; System Update Service to uninstall the app. After that,
+                                    please restart the phone to make sure the changes have been made.&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">25. Can I uninstall FamiGenius Pro for Android remotely?</p>
+                            <div class="faqs-msg">
+                                <p>Unfortunately, it is currently not supported to remotely uninstall FamiGuard 
+                                    Pro for Android. You must have access to the target device to uninstall it.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">26. How to unbind device?</p>
+                            <div class="faqs-msg">
+                                <p>You need to go to “My Products and Orders Management Page” first, and then
+                                    click on “Settings” where you can unbind device.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">27. If I uninstall FamiGenius Pro for Android on the target device,
+                                are the previous device data still there?</p>
+                            <div class="faqs-msg">
+                                <p>We will keep the previous device data for a period of time, but if there are
+                                    no any further actions like rebinding the target device or renewing the
+                                    license on your current account within 7 days, then all the previous
+                                    recorded data related to the target device will be deleted permanently.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">28. Will the device data still be uploaded to the FamiGuard Pro
+                                control panel after uninstallation?</p>
+                            <div class="faqs-msg">
+                                <p>No data will be uploaded to the FamiGuard Pro control panel after you
+                                    uninstall it.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="guide-right" id="whatsapp" style="display: none;">
+                        <div class="note-wrap" style="display: flex;">
+                            <div class="note-icon">!</div>
+                            <div class="note-right">
+                                <div class="note-title">Quick Tour: </div>
+                                <div class="note-text">
+                                    <p>Q1-Q8: Installation Related FAQs</p>
+                                    <p>Q9-Q12: Features Related FAQs</p>
+                                    <p>Q13-Q19: Update &amp; Uninstall Related FAQs</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">1. What is FamiGenius for WhatsApp?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius for WhatsApp is a specialized WhatsApp monitoring solution. It can
+                                    secretly record 10+ WhatsApp data types on the Android phone it is installed
+                                    in and upload them to an online control panel.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">2. How does FamiGenius for WhatsApp app work?</p>
+                            <div class="faqs-msg">
+                                <p>Using FamiGenius for WhatsApp is simple. You just install the program once on
+                                    the Android phone you want to monitor and remotely check all WhatsApp data
+                                    from your own computer or phone.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">3. What devices are compatible with FamiGenius for WhatsApp?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius for WhatsApp is compatible with most popular Android phones like
+                                    Samsung, Google, Huawei, OPPO, VIVO, Xiaomi, LG, etc. It also works on
+                                    Android 4.4 up to 13.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">4. Do I need to root the target Android I want to monitor?</p>
+                            <div class="faqs-msg">
+                                <p>No, you don’t. Rooting is not required to enjoy all advanced monitoring
+                                    features of FamiGenius for WhatsApp.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">5. Is FamiGenius for WhatsApp invisible / hidden?</p>
+                            <div class="faqs-msg">
+                                <p>Yes. FamiGenius for WhatsApp app icon will disappear from home screen and
+                                    rename in Settings by default. On Android 10+, the app icon will be masked
+                                    as internet settings. You can drag it to an unobvious folder that contains
+                                    many default Apps.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">6. Does FamiGenius for WhatsApp app work worldwide?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius for WhatsApp works perfectly regardless of the cellular carrier
+                                    network or the location of the target device. You will get updates when
+                                    mobile internet or Wi-Fi connection is switched on the target device.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">7. Is XXX app in conflict with FamiGenius for WhatsApp app on
+                                target phone?</p>
+                            <div class="faqs-msg">
+                                <p>No, it isn’t. FamiGenius for WhatsApp works well with other apps and won’t
+                                    affect the normal use of the target device.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">8. Do I need to have physical access to the phone or tablet I want
+                                to monitor?</p>
+                            <div class="faqs-msg">
+                                <p>Yes. FamiGenius for WhatsApp app requires a one-time access on monitored
+                                    Android devices. But 5 minutes is enough. Once our program is set up
+                                    successfully, you can view all data remotely through your web control panel.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">9. What are the main features of FamiGenius for WhatsApp?</p>
+                            <div class="faqs-msg">
+                                <p>(1) Monitor WhatsApp chats, including sent, received and deleted messages if
+                                    they’ve been read by the target.</p>
+                                <p>(2) Check WhatsApp media files, like shared photos, videos, voices,
+                                    documents, status.</p>
+                                <p>(3) Record WhatsApp calls and capture WhatsApp live screen automatically.</p>
+                                <p>You can head to its <a
+                                        href="https://panel.famiguard.com/demo/whatsapp-dashboard"
+                                        target="_blank">free demo</a> and exprience all WhatsApp monitoring
+                                    features in advance.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">10. How often does FamiGenius for WhatsApp update the monitoring
+                                log?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGenius for WhatsApp updates the data log in real-time when the target
+                                    phone has internet connection. You can also sync the latest data at once.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">11. How to avoid data usage of target device?</p>
+                            <div class="faqs-msg">
+                                <p>Be aware, large files (photos, videos, audios &amp; documents) are uploaded
+                                    over Wi-Fi by default. This is to avoid the mobile data consumption of
+                                    target device. You can also change whether under Wi-Fi or mobile data to
+                                    upload these files in settings.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">12. What if there is no sound in WhatsApp Call recordings?</p>
+                            <div class="faqs-msg">
+                                <p>It is noted that this feature takes advantage of the microphone to record
+                                    WhatsApp voice/video calls, so you may not hear the voice on the other side
+                                    unless the loudspeaker is enabled on target phone.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">13. How to uninstall FamiGenius for WhatsApp?</p>
+                            <div class="faqs-msg">
+                                <p>You can remove this app on target phone from settings &gt; apps &gt; find
+                                    WhatsApp Service and uninstall it.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">14. Can I uninstall FamiGenius for WhatsApp remotely?</p>
+                            <div class="faqs-msg">
+                                <p>Unfortunately, it is currently not supported to remotely uninstall the
+                                    FamiGenius for WhatsApp. You must have access to the target device to
+                                    uninstall it.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">15. How do I get FamiGenius for WhatsApp upgrades?</p>
+                            <div class="faqs-msg">
+                                <p>You will have to reinstall the application on target phone or tablet to get
+                                    best WhatsApp monitoring experience. What’s more, you will get free upgrades
+                                    as long as your subscription is valid.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">16. If I uninstall FamiGenius for WhatsApp on the target device,
+                                are the previous device data still there?</p>
+                            <div class="faqs-msg">
+                                <p>We will keep the previous device data for a period of time, but if there are
+                                    no any further actions like rebinding the target device or renewing the
+                                    license on your current account within 7 days, then all the previous
+                                    recorded data related to the target device will be deleted permanently.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">17. How to unbind the target device?</p>
+                            <div class="faqs-msg">
+                                <p>Please log into FamiGuard’s online control panel, go to Settings page, then
+                                    you can choose to unbind the target device.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">18. How to prevent the app from being uninstalled on target
+                                device?</p>
+                            <div class="faqs-msg">
+                                <p>(1) Disable Google Play Protect. Please go to Settings &gt; Google Play
+                                    Protect &gt; turn off “Scan device for security threats " and "Improve
+                                    harmful app detection”.</p>
+                                <p>(2) Disable other antivirus programs on target device. Open the antivirus
+                                    programs &gt; find WhatsApp Service and ignore its detection.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">19. How to delete my account?</p>
+                            <div class="faqs-msg">
+                                <p>If you're having an issue on FamiGenius for WhatsApp, contact <a
+                                        href="../contact-us/index.html" target="_blank">customer service</a> to let us know
+                                    what's up. If you want to delete your account, you can leave a request.
+                                    We're sorry to see you go.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="guide-right" id="kidsguard" style="display: none;">
+                        <div class="note-wrap" style="display: flex;">
+                            <div class="note-icon">!</div>
+                            <div class="note-right">
+                                <div class="note-title">Quick Tour: </div>
+                                <div class="note-text">
+                                    <p>Q1-Q10: Installation Related FAQs</p>
+                                    <p>Q11-Q17: Features Related FAQs</p>
+                                    <p>Q18-Q28: Update &amp; Uninstall Related FAQs</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">1. What Does FamiGuard Do?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGuard is a parental control app that allows you, as a parent, to monitor
+                                    and control your kids' activities with their smartphones. With FamiGuard,
+                                    you can protect your kids from harmful online contents, stay in track of
+                                    their movements and help your kids to form a good habit by limiting
+                                    screentime flexibly.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">2. How Does FamiGuard Work?</p>
+                            <div class="faqs-msg">
+                                <p>After installing FamiGuard on your own Android or iOS device, you need to
+                                    install FamiGuard Jr on your kid's device and bind the two. So long as the
+                                    two apps are properly installed and functioning on each device, FamiGuard
+                                    can provide real-time services for you and your kids.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">3. What is FamiGuard Jr?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGuard Jr is a companion app of FamiGuard. In order to let FamiGuard work
+                                    properly, FamiGuard Jr must be installed on your kid's device and given
+                                    necessary permissions.&nbsp;&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">4. Are kids able to uninstall FamiGuard on their own?</p>
+                            <div class="faqs-msg">
+                                <p>It would be meaningless if kids can freely uninstall FamiGuard Jr and disable
+                                    all functions of FamiGuard, Wouldn't it? So, FamiGuard Jr protects itself
+                                    from being uninstalled once the kid's device gets bound to your own. Under
+                                    most circumstances, FamiGuard Jr cannot be uninstalled before unbinding.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">5. How to uninstall FamiGuard Jr?</p>
+                            <div class="faqs-msg">
+                                <p>If you no longer need services provided by FamiGuard , first unbind your kid's
+                                    device in the FamiGuard app, then you can easily uninstall FamiGuard Jr on
+                                    your kid's device just like uninstalling any other app.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">6. What Device is FamiGuard Compatible with?</p>
+                            <div class="faqs-msg">
+                                <p>KidsGuard can be installed on both Android and iOS devices. But FamiGuard Jr
+                                    can only be installed on Android device. That is to say, no matter if you
+                                    are an Android user or iOS user, FamiGuard works only if your kids are using
+                                    Android devices. But don't worry. FamiGuard Jr will add iOS support soon
+                                    enough so stay tuned!</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">7. How Many Devices can be Bound to My Account?</p>
+                            <div class="faqs-msg">
+                                <p>Everyone can bind as many as 3 child devices under a parent device, paid or
+                                    not.&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">8. Can I Use FamiGuard for Free?</p>
+                            <div class="faqs-msg">
+                                <p>Yes, but not all features. Everyone can use realtime location tracker, web
+                                    filter, have limited chances of instant screenshot and screen lock. If you
+                                    like these functions or seek for more features like app blocker, you can go
+                                    for a premium plan.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">9. How to Bind/Unbind my kids' devices?</p>
+                            <div class="faqs-msg">
+                                <p>To bind a device, simply tap the "Bind Device" or icon at the top right
+                                    corner of FamiGuard home page. You can also go to "Me" and select "Bind
+                                    Device". Be aware that you can only bind no more than 3 devices. To unbind a
+                                    device, go to "Me", "Associated Devices" and select a device to unbind.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">10. How to cancel my subscription?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGuard subscription is associated with Google Play Store and App Store.
+                                    You can use the official channel of the store to manage your subscription.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">11. Is my privacy safe with FamiGuard?</p>
+                            <div class="faqs-msg">
+                                <p>Absolutely. FamiGuard collect information from customers but only for the
+                                    purpose of providing core services. For example, we collect app list on your
+                                    kids device so that you can manage which app you want your kids to use or
+                                    not to use. We guarantee that all data are safe with us and will not be
+                                    shared with any third-party individuals or organizations.&nbsp;</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">12. Why is there no responce from my kid's device?</p>
+                            <div class="faqs-msg">
+                                <p>Several factors could cause the kid's device not to respond. To let FamiGuard
+                                    and FamiGuard Jr communicates properly, make sure the network connection is
+                                    stable on both ends, also make sure that FamiGuard Jr has all necessary
+                                    permissions.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">13. How to check the permission status of FamiGuard Jr？</p>
+                            <div class="faqs-msg">
+                                <p>To check FamiGuard Jr's permission status, you can go to "Me", "Check
+                                    Permissions". You can also take your kid's device and find "Check
+                                    Permissions" in settings. Then check the Dynamic PIN on your FamiGuard app
+                                    and input it into FamiGuard Jr before checking and fixing the permission
+                                    issues.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">14. Will kids be able to make emergancy calls when their device
+                                get locked by FamiGuard?</p>
+                            <div class="faqs-msg">
+                                <p>FamiGuard enables parents to control their kids' device usage. But under all
+                                    circumstances, kids will be able to make calls. So there is no need to worry
+                                    about losing touch with the kids.</p>
+                            </div>
+                        </div>
+                        <div class="faqs-title">
+                            <p class="faqs-p">15. Where can I download FamiGuard and FamiGuard Jr?</p>
+                            <div class="faqs-msg">
+                                <p><sub></sub>FamiGuard Jr can be downloaded in
+                                    https://jr.famigaurdapp.com/famiguardjr.apk. Use your kid's device to open link
+                                    and the download will automatically start.&nbsp;</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <div class="footer">
+    <div class="container container-sm">
+        <div class="footer_box">
+            <div class="flexible footer_box1">
+                <div class="footer-item1">
+                    <p class="logo"><a href="https://www.imyfone.com/"><img
+                                src="https://images.imyfone.com/famiguarden/assets/common/footer/imyfone_logo_footer.png"
+                                alt="logo" /></a></p>
+                    <p class="pay">
+                        <span><a href="https://www.facebook.com/imyfone/"><img
+                                    src="https://images.imyfone.com/famiguarden/assets/common/footer/share_facebook.png"
+                                    alt="share_facebook" /></a></span>
+                        <span><a href="https://twitter.com/imyfone/"><img
+                                    src="https://images.imyfone.com/famiguarden/assets/common/footer/share_twitter.png"
+                                    alt="share_twitter" /></a></span>
+                        <span><a href="https://www.youtube.com/channel/UC24IzSlp5lFVXDBZq3YmtBg"><img
+                                    src="https://images.imyfone.com/famiguarden/assets/common/footer/share_youtube.png"
+                                    alt="share_youtube" /></a></span>
+                        <span><a href="https://www.instagram.com/imyfone_official/"><img
+                                    src="https://images.imyfone.com/famiguarden/assets/common/footer/follow_instagram.png"
+                                    alt="follow_instagram" /></a></span>
+                        <span><a href="https://www.pinterest.com/imyfonesoftware/"><img
+                                    src="https://images.imyfone.com/famiguarden/assets/common/footer/follow_pinterest.png"
+                                    alt="follow_pinterest" /></a></span>
+                    </p>
+                </div>
+                <div class="footer-item2">
+                    <p class="title shrink">Company<span class="arrow-icon down-ico"></span></p>
+                    <ul class="footer_ul">
+                        <li><a href="../about-us/index.html">About Us</a></li>
+                        <li><a href="../contact-us/index.html">Contact Us</a></li>
+                        <li><a href="../support-center/index.html">Support Center</a></li>
+                        <li><a href="https://www.imyfone.com/company/partner/">Become Partner</a></li>
+                    </ul>
+                </div>
+                <div class="footer-item2">
+                    <p class="title shrink">Learning Center<span class="arrow-icon down-ico"></span></p>
+                    <ul class="footer_ul">
+                        <li><a href="../topic/index.html">Resource</a></li>
+                        <li><a href="../monitor/index.html">Android Monitor</a></li>
+                        <li><a href="../mobile-tracker/index.html">Mobile Tracker</a></li>
+                        <li><a href="../parental-control/index.html">Parental Control</a></li>
+                        <li><a href="../whatsapp-tracker/index.html">WhatsApp Tracker</a></li>
+                        <li><a href="../tips/index.html">FamiGuard Tips</a></li>
+                    </ul>
+                </div>
+                <div class="footer-item2">
+                    <p class="title shrink">Policies<span class="arrow-icon down-ico"></span></p>
+                    <ul class="footer_ul">
+                        <li><a href="../privacy-policy/index.html">Privacy Policy</a></li>
+                        <li><a href="../cookie-policy/index.html">Cookie Policy</a></li>
+                        <li><a href="../refund-policy/index.html">Refund Policy</a></li>
+                        <li><a href="../eula/index.html">EULA</a></li>
+                        <li><a href="../terms-and-conditions/index.html">Terms & Conditions</a></li>
+                        <li><a href="../payment-agreement/index.html">Payment Agreement</a></li>
+                    </ul>
+                </div>
+                <div class="footer-item1">
+                    <p class="store">
+                        <a href="../store/index.html">
+                            FamiGuard Store
+                            <span class="store-icon"></span>
+                        </a>
+                    </p>
+                    <p class="pay seal-pay"></p>
+                    <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="58f876cd0000ff0005a0d67e" data-style-height="60px" data-style-width="100%" data-theme="dark" data-font-family="Poppins">
+                        <a href="https://www.trustpilot.com/review/www.imyfone.com" target="_blank" rel="noopener">Trustpilot</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer_box2">
+                <p class="footer_title">Disclaimer</p>
+                <p class="footer_desc">FAMIGUARD'S SOFTWARE INTENDED FOR LEGAL USE ONLY. Installing the Licensed Software onto the device you do not possess monitoring rights may go against the Laws of your country or region. Violation of the law’s requirements would be liable to severe monetary and criminal penalties. Please consult your own legal advisor for professional opinions on the legality of using this Licensed Software in the way you intend to use. You take full responsibility for downloading, installing, and using it. FamiGuard shall not be responsible if you choose to monitor a device without being permitted to; nor can FamiGuard provide legal advice on the use of the monitoring software. All rights not expressly granted herein are reserved to and retained by FamiGuard.</p>
+            </div>
+            <p class="desc-bottom">Copyright © 2022  FamiGuard. All rights reserved.</p>
+            <a href="index.html@index=2#toTop" class="totop"><img src="https://images.imyfone.com/famiguarden/assets/common/footer/top_icon.svg" alt="top icon"></a>
+        </div>
+    </div>
+
+</div>
+<div class="choose-wrap">
+    <button class="choose-aside" onclick="showChooseDialog(true, 'sidebar')">
+        <i class="icon-choose"></i>
+        <span>Help Me Choose</span>
+    </button>
+    <!-- Modal -->
+    <div class="modal-backdrop fade" id="modal-backdrop" onclick="toggleChooseDialog(false)"></div>
+    <div class="modal fade" id="chooseModal">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" onclick="toggleChooseDialog(false)">
+                        <span aria-hidden="true" class="close-icon"></span>
+                    </button>
+                    <span class="prev-step hidden" data-value=""></span>
+                    <span class="m-modal-title">Help me choose</span>
+                </div>
+                <div class="modal-body text-center">
+                    <!-- setp1 i want to -->
+                    <div class="section section-00" data-id="00" data-next="" data-prev="false">
+                        <div class="title">
+                            <span class="step-one">Step 1</span>
+                            <span class="section-title"> I want to...</span>
+                        </div>
+                        <div class="m-radio" data-value="12">
+                            <span class="radio-icon"></span>
+                            Know if I am being monitored.
+                        </div>
+                        <div class="m-radio" data-value="01">
+                            <span class="radio-icon"></span>
+                            Keep track of my loved ones.
+                        </div>
+                        <div class="to-next next-00">Next >></div>
+                    </div>
+                    <!-- setp1 i want to -->
+                    
+                    <!-- step1 select systom -->
+                    <div class="section section-01 " data-id="01" data-next="" data-prev="true">
+                        <div class="title">
+                            <span class="step-one">Step 2</span>
+                            <span class="section-title">The target I want to monitor is using...</span>
+                        </div>
+                        <div class="m-radio" data-value="02">
+                            <span class="radio-icon"></span>
+                            Android (Samsung, Huawei, Oppo, Google, etc.)
+                        </div>
+                        <div class="m-radio need-email" data-value="10" data-type="iOS">
+                            <span class="radio-icon"></span>
+                            iOS
+                        </div>
+                        <div class="m-radio need-email" data-value="10" data-type="Windows">
+                            <span class="radio-icon"></span>
+                            Windows
+                        </div>
+                        <div class="m-radio need-email" data-value="10" data-type="Mac">
+                            <span class="radio-icon"></span>
+                            Mac computer
+                        </div>
+                        <div class="to-next next-01">Next >></div>
+                    </div>
+                    <!-- step1 select systom -->
+
+                    <!-- select  android-->
+                    <div class="section section-02 hidden" data-id="02" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/step_three_four.png" alt="step_three">
+                        <div class="title">
+                            <span class="section-title">Confrim your monitoring needs here</span>
+                        </div>
+                        <div class="android-radio text-center">
+                            <div class="m-radio column" data-value="03">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/product_icon/famiguard_for_whatsapp.svg" alt="whatsapp">
+                                <div>
+                                    <span class="radio-icon"></span>
+                                    <div class="radio-desc">I prefer to focus on WhatsApp monitoring. (WhatsApp messages, WhatsApp calls, WhatsApp media files, etc.)</div>
+                                </div>
+                            </div>
+                            <div class="m-radio column" data-value="04">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/product_icon/famiguard_pro_for_android.svg" alt="android">
+                                <div>
+                                    <span class="radio-icon"></span>
+                                    <div class="radio-desc">I prefer monitoring everything on the target Android phone. (Social apps, location history, phone files, etc.)</div>
+                                </div>
+                            </div>
+                            <div class="m-radio column" data-value="15">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/product_icon/famiguard.svg" alt="android">
+                                <div>
+                                    <span class="radio-icon"></span>
+                                    <div class="radio-desc">I prefer to ensure the safety of my kids' online activities and create screen time balance. (Web & app block, call filter, lock screen, etc.)</div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="to-next next-02">Next >></div>
+                    </div>
+
+                    <div class="section section-03 hidden" data-id="03" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/step_four.png" alt="step_four">
+                        <div class="title">
+                            <span class="section-title">The results are in</span>
+                        </div>
+                        <div class="pd-box">
+                            <img src="https://images.imyfone.com/famiguarden/assets/common/product_box/famiguard_for_whatsapp.png" alt="FamiGenius for WhatsApp">
+                            <div class="pd-right">
+                                <h4>FamiGenius for WhatsApp</h4>
+                                <ul>
+                                    <li>Read sent or received WhatsApp messages.</li>
+                                    <li>Track WhatsApp calls, even any missed ones.</li>
+                                    <li>Record and playback WhatsApp calls.</li>
+                                    <li>Check WhatsApp photos & videos.</li>
+                                    <li>Download all WhatsApp compatible files.</li>
+                                    <li>Take screenshots when WhatsApp's in use. </li>
+                                </ul>
+                                <div class="btn-group">
+                                    <div class="btn-box"><a href="../whatsapp-monitoring/index.html" class="blue-btn" target="_blank" onclick="clickChooseEvent(1,'Take Me There','FamiGenius for WhatsApp')">Take Me There</a></div>
+                                    <div class="btn-box">
+                                        <a href="../famiguard-whatsapp-pricing/index.html" class="orange-btn" target="_blank" onclick="clickChooseEvent(1,'Buy Now','FamiGenius for WhatsApp')">Buy Now</a>
+                                        <p>Starts from $7.50 / month</p>    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="know-more">*You also want to know: <a href="../whatsapp-monitoring/guide/index.html" target="_blank">Installation Guide</a> / <a href="index.html" target="_blank">Product FAQs</a></p>
+                    </div>
+
+                    <div class="section section-04 hidden" data-id="04" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/step_four.png" alt="step_four">
+                        <div class="title">
+                            <span class="section-title">The results are in</span>
+                        </div>
+                        <div class="pd-box">
+                            <img src="https://images.imyfone.com/famiguarden/assets/common/product_box/famiguard_pro_for_android.png" alt="FamiGenius Pro for Android">
+                            <div class="pd-right">
+                                <h4>FamiGenius Pro for Android</h4>
+                                <ul>
+                                    <li>Monitor 16+ social media apps.</li>
+                                    <li>Track real-time locations.</li>
+                                    <li>Access phone files like SMS and call logs.</li>
+                                    <li>Record the target's phone calls.</li>
+                                    <li>Capture auto-screenshots.</li>
+                                    <li>Take secret photos using remote camera.</li>
+                                </ul>
+                                <div class="btn-group">
+                                    <div class="btn-box"><a href="../android-parental-control/index.html" class="blue-btn" target="_blank" onclick="clickChooseEvent(1,'Take Me There','FamiGenius Pro for Android')">Take Me There</a></div>
+                                    <div class="btn-box">
+                                        <a href="../famiguard-pro-pricing-android/index.html" class="orange-btn" target="_blank" onclick="clickChooseEvent(1,'Buy Now','FamiGenius Pro for Android')">Buy Now</a>
+                                        <p>Starts from $8.32 / month</p>    
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="know-more">*You also want to know: <a href="../android-parental-control/guide/index.html" target="_blank">Installation Guide</a> / <a href="index.html" target="_blank">Product FAQs</a></p>
+                    </div>
+                    <div class="section section-15 hidden" data-id="15" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/step_four.png" alt="step_four">
+                        <div class="title">
+                            <span class="section-title">The results are in</span>
+                        </div>
+                        <div class="pd-box">
+                            <img src="https://images.imyfone.com/famiguarden/assets/common/product_box/famiguard.png" alt="FamiGuard">
+                            <div class="pd-right">
+                                <h4>FamiGuard</h4>
+                                <ul>
+                                    <li>Block inappropriate websites, social or game apps, etc.</li>
+                                    <li>Capture kids' devices screen in real-time & lock the screen.</li>
+                                    <li>Track kids in real time and view their location history.</li>
+                                    <li>Filter scams or other messy phone calls.</li>
+                                    <li>Receive detailed online activity reports.</li>
+                                </ul>
+                                <div class="btn-group">
+                                    <div class="btn-box">
+                                        <a href="https://play.google.com/store/apps/details?id=com.parent.famiguard&referrer=utm_source%3Dfamiguard.com%26utm_medium%3Dfamiguard%26utm_campaign%3Dhelp_me_choose" class="google-btn"></a>
+                                    </div>
+                                    <div class="btn-box">
+                                        <a href="https://apps.apple.com/app/id1619941379" class="apple-btn"></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <p class="know-more">*You also want to know: <a href="../phone-parental-control/guide/index.html" target="_blank">Installation Guide</a> / <a href="index.html" target="_blank">Product FAQs</a></p>
+                    </div>
+                    <!-- select  android -->
+
+                    <!-- select Windows -->
+                    <!-- select Mac -->
+                    <div class="section section-10 hidden" data-id="10" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/step_three.png" alt="step">
+                        <div class="title">
+                            <span class="section-title">The Mac monitoring software is coming soon</span>
+                        </div>
+                        <p class="pd-desc"><span class="product-sys">Mac</span> monitoring tool is coming soon! Leave your email here and receive the 
+                            <span class="orange_txt">50% early bird discount</span> after the products are launched!</p>
+                        <div style="max-width: 320px;margin: 0 auto;">
+                            <input type="text" placeholder="Your valid email address" id="email_choose">
+                            <input type="hidden" value="" id="email_choose_hidden">
+                            <p class="error-tips hidden"></p>
+                        </div>
+                        <button class="completed submit submit-btn-one" data-prev="10">Submit</button>
+                    </div>
+
+                    <div class="section section-11 hidden" data-id="11" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/completed_icon.png" alt="completed">
+                        <div class="title">
+                            <span class="section-title">Submitted Successfully!</span>
+                        </div>
+                        <p class="pd-desc">Thanks for your participation. We will email you the first time when <span>Mac</span> monitoring software is launched. By the way, don't miss the other powerful products ClevGuard offers.</p>
+                        <button class="completed" onclick="toggleChooseDialog(false)">OK</button>
+                    </div>
+                    <!-- select Mac -->
+
+                    <!-- being monitored. -->
+                    <div class="section section-12 hidden" data-id="12" data-next="" data-prev="true">
+                        <div class="title">
+                            <span class="step-one">Step 2</span>
+                            <span class="section-title">I own the following devices...</span>
+                        </div>
+                        <div class="monitored-radio text-center">
+                            <div class="m-radio column need-email" data-value="14" data-type="Android Antispy">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/img_android.png" alt="Android">
+                                <span>Android</span>
+                            </div>
+                            <div class="m-radio column need-email" data-value="14" data-type="iOS Antispy">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/img_ios.png" alt="iOS">
+                                <span>iOS</span>
+                            </div>
+                            <div class="m-radio column need-email" data-value="14" data-type="Win Antispy">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/img_win.png" alt="win">
+                                <span>Win</span>
+                            </div>
+                            <div class="m-radio column need-email" data-value="14" data-type="Mac Antispy">
+                                <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/img_mac.png" alt="Mac">
+                                <span>Mac</span>
+                            </div>
+                        </div>
+                        <div class="to-next next-12">Next >></div>
+                    </div>
+                    <!-- being monitored. -->
+
+                    <!-- select win/mac/iOS -->
+                    <div class="section section-14" data-id="14" data-next="" data-prev="true">
+                        <img src="https://images.imyfone.com/famiguarden/assets/common/help_me_choose/coming_soon.png" alt="coming soon..">
+                        <div class="title">
+                            <span class="section-title">Coming soon..</span>
+                        </div>
+                        <p class="pd-desc">Leave your email here and receive the <span class="red">50%</span> early bird discount after the products are launched!</p>
+                        <div style="max-width: 320px;margin: 0 auto;">
+                            <input type="text" placeholder="Your valid email address" id="email_fill">
+                            <input type="hidden" value="" id="email_fill_hidden">
+                            <p class="error-tips hidden"></p>
+                        </div>
+                        <button class="completed submit submit-btn-two">Submit</button>
+                        <p class="submitted-info"></p>
+                    </div>
+                    <!-- select win/mac/iOS -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="../assets/plug/notification.js"></script>
+<script type="text/javascript" src="https://widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js?v=1.1.0" async></script>
+<script src="../assets/plug/jquery/jquery-3.3.min.js"></script>
+<script src="../assets/plug/md5.js"></script>
+<script src="../assets/js/common.js"></script>
+</body>
+    <script src="../assets/js/support/question.js"></script>
+</html>

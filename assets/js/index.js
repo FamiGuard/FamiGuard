@@ -1,0 +1,11 @@
+learnMore();setBannerByWindowSize();$(window).resize(function(){setBannerByWindowSize();learnMore()})
+function setBannerByWindowSize(){var wdWidth=$(window).width();var prodWidth,proTop,pgHeight,pgTop;if(wdWidth<975){setTimeout(function(){pgHeight=Math.floor(320*wdWidth/750);$(".pictrue-group").css('height',wdWidth>750?340:pgHeight);proTop=$('.top-banner').height();pgTop=wdWidth>750?proTop-350:proTop-pgHeight-20;$('.swiper-pagination').css('top',pgTop)},50)}else{setTimeout(function(){$(".pictrue-group").css('height','700px');$('.swiper-pagination').css('top','510px')},50)}}
+$('.trusted_by #myCarousela, .trusted_by #myCarousel').carousel({conf:{auto:!0,autoTiming:2000,}});function learnMore(){var width=$(window).width();if(width<975){$('.our-products .products-item').click(function(){var href=$(this).find('.item-btn').attr('href');location.href=href})}else{$('.our-products .products-item').unbind("click")}}
+var bannerSwiper=new Swiper('.banner-swiper',{autoplay:{delay:10000,},width:window.innerWidth,pagination:{el:'.banner-swiper .swiper-pagination',clickable:!0},on:{slideChange:function(){setBannerByWindowSize();$('.products-item').removeClass('active')
+$('.products-item').eq(bannerSwiper.realIndex).addClass('active')},resize:function(){this.params.width=window.innerWidth;this.update()}}})
+$(function(){var getNewArticle=function(){var nowStime=md5Token.sitme()
+$.ajax({url:base.cmsProdApiUrl()+'/api/article/getLatestArticle',type:'post',data:{site_name:"famiguard_en",},headers:{'token':md5Token.token(nowStime),'stime':nowStime,},success:function(res){var html=''
+var resData=res.data.data
+if(resData.length>0){for(var i=0;i<resData.length;i++){var updateTime=new Date(resData[i].formatdate_update_time);html+='<li><div class="topic-text"><a href="'+resData[i].article_url+'" target="_blank">'+resData[i].article_title+'</a></div>'+'<span class="topic-time">'+updateTime.toDateString().split(" ")[1]+' '+updateTime.toDateString().split(" ")[2]+', '+updateTime.toDateString().split(" ")[3]+'</span>'+'</li>'}
+$('.topic-list').html(html)}}})}
+getNewArticle()})
