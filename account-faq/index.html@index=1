@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>FamiGuard Support Center - Account FAQs</title>
-    <meta name="description" content="FAQs about FamiGuard's account subscription. Get to know the way to upgrade or downgrade account, add or remove account, and more.">
+    <title>FamiGenius Support Center - Account FAQs</title>
+    <meta name="description" content="FAQs about FamiGenius's account subscription. Get to know the way to upgrade or downgrade account, add or remove account, and more.">
     <meta name="keywords" content="account faq">
     
      <link rel="canonical" href="index.html" />
@@ -95,7 +95,7 @@
                                 Special WhatsApp Monitoring
                             </p>
                             <p class="products_text">
-                                <a href="../phone-parental-control/index.html">FamiGuard</a>
+                                <a href="../phone-parental-control/index.html">FamiGenius</a>
                                 <span class="right-arrow"></span>
                             </p>
                             <p class="desc">
@@ -230,8 +230,8 @@
     <div class="question olhide">
             <div class="top-banner text-center">
                 <div class="container">
-                    <h1>FamiGuard Support Center - Account FAQs</h1>
-                    <p class="desc">If you get any problems while using the FamiGuard account, you can find the answer here.</p>
+                    <h1>FamiGenius Support Center - Account FAQs</h1>
+                    <p class="desc">If you get any problems while using the FamiGenius account, you can find the answer here.</p>
                 </div>
             </div>
             <div class="container flexible question_msg">
@@ -255,7 +255,7 @@
                 <ul class="sub-ul product-faqs-list">
                     <li><a href="javascript:;" class="android" data-url="/product-faq/">FamiGenius Pro for Android</a></li>
                     <li><a href="javascript:;" class="whatsapp" data-url="/product-faq/">FamiGenius for WhatsApp</a></li>
-                    <li><a href="javascript:;" class="famiguard" data-url="/product-faq/">FamiGuard</a></li>
+                    <li><a href="javascript:;" class="famiguard" data-url="/product-faq/">FamiGenius</a></li>
                 </ul>
             </li>
             <li class="account-faq"><a href="index.html">Account & Settings</a></li>
@@ -303,7 +303,7 @@
                             </div>
                         </div>
                         <div class="faqs-title">
-                            <p class="faqs-p">4. How to add another device for FamiGuard or FamiGuard Pro?</p>
+                            <p class="faqs-p">4. How to add another device for FamiGenius or FamiGenius Pro?</p>
                             <div class="faqs-msg">
                                 <p>Due to the pricing plan limitation, to add a new device, you first need to
                                     have another valid license. You can go to Store page or My Product page to
@@ -318,15 +318,15 @@
                             </div>
                         </div>
                         <div class="faqs-title">
-                            <p class="faqs-p">6. I want to delete my FamiGuard account, what should I do?</p>
+                            <p class="faqs-p">6. I want to delete my FamiGenius account, what should I do?</p>
                             <div class="faqs-msg">
-                                <p>It’s not available to delete FamiGuard account for now.</p>
+                                <p>It’s not available to delete FamiGenius account for now.</p>
                             </div>
                         </div>
                         <div class="faqs-title">
                             <p class="faqs-p">7. How to change the notification email?</p>
                             <div class="faqs-msg">
-                                <p>First, you need to login to your account on FamiGuard website. Then go to My
+                                <p>First, you need to login to your account on FamiGenius website. Then go to My
                                     Profile, from where you can enter a new notification email.</p>
                             </div>
                         </div>
@@ -383,7 +383,7 @@
                         <li><a href="../mobile-tracker/index.html">Mobile Tracker</a></li>
                         <li><a href="../parental-control/index.html">Parental Control</a></li>
                         <li><a href="../whatsapp-tracker/index.html">WhatsApp Tracker</a></li>
-                        <li><a href="../tips/index.html">FamiGuard Tips</a></li>
+                        <li><a href="../tips/index.html">FamiGenius Tips</a></li>
                     </ul>
                 </div>
                 <div class="footer-item2">
@@ -400,7 +400,7 @@
                 <div class="footer-item1">
                     <p class="store">
                         <a href="../store/index.html">
-                            FamiGuard Store
+                            FamiGenius Store
                             <span class="store-icon"></span>
                         </a>
                     </p>
@@ -412,9 +412,9 @@
             </div>
             <div class="footer_box2">
                 <p class="footer_title">Disclaimer</p>
-                <p class="footer_desc">FAMIGUARD'S SOFTWARE INTENDED FOR LEGAL USE ONLY. Installing the Licensed Software onto the device you do not possess monitoring rights may go against the Laws of your country or region. Violation of the law’s requirements would be liable to severe monetary and criminal penalties. Please consult your own legal advisor for professional opinions on the legality of using this Licensed Software in the way you intend to use. You take full responsibility for downloading, installing, and using it. FamiGuard shall not be responsible if you choose to monitor a device without being permitted to; nor can FamiGuard provide legal advice on the use of the monitoring software. All rights not expressly granted herein are reserved to and retained by FamiGuard.</p>
+                <p class="footer_desc">FamiGenius'S SOFTWARE INTENDED FOR LEGAL USE ONLY. Installing the Licensed Software onto the device you do not possess monitoring rights may go against the Laws of your country or region. Violation of the law’s requirements would be liable to severe monetary and criminal penalties. Please consult your own legal advisor for professional opinions on the legality of using this Licensed Software in the way you intend to use. You take full responsibility for downloading, installing, and using it. FamiGuard shall not be responsible if you choose to monitor a device without being permitted to; nor can FamiGuard provide legal advice on the use of the monitoring software. All rights not expressly granted herein are reserved to and retained by FamiGuard.</p>
             </div>
-            <p class="desc-bottom">Copyright © 2022  FamiGuard. All rights reserved.</p>
+            <p class="desc-bottom">Copyright © 2022  FamiGenius. All rights reserved.</p>
             <a href="index.html@index=1#toTop" class="totop"><img src="https://images.imyfone.com/famiguarden/assets/common/footer/top_icon.svg" alt="top icon"></a>
         </div>
     </div>
@@ -579,7 +579,7 @@
                         <div class="pd-box">
                             <img src="https://images.imyfone.com/famiguarden/assets/common/product_box/famiguard.png" alt="FamiGuard">
                             <div class="pd-right">
-                                <h4>FamiGuard</h4>
+                                <h4>FamiGenius</h4>
                                 <ul>
                                     <li>Block inappropriate websites, social or game apps, etc.</li>
                                     <li>Capture kids' devices screen in real-time & lock the screen.</li>
