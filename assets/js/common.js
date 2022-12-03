@@ -779,20 +779,21 @@ var base = (function () {
     });
     commonMethods.main();
     if (!util.isProductEnv()) {
-      $('a').each(function () {
-        if (
-          $(this).attr('href') &&
-          $(this).attr('href').indexOf('https://panel.famiguard.com/') > -1
-        ) {
-          var hostname = returnHostName();
-          var url = $(this)
-            .attr('href')
-            .replace('https://panel.famiguard.com/', hostname + '/');
-          $(this).attr('href', url);
-        }
-      });
-    }
-  };
+  //     $('a').each(function () {
+  //       if (
+  //         $(this).attr('href') &&
+  //         $(this).attr('href').indexOf('https://panel.famiguard.com/') > -1
+  //       ) {
+  //         var hostname = returnHostName();
+  //         console.log(hostname, 111);
+  //         var url = $(this)
+  //           .attr('href')
+  //           .replace('https://panel.famiguard.com/', hostname + '/');
+  //         $(this).attr('href', url);
+  //       }
+  //     });
+  //   }
+  // };
   return { init: init, util: util, commonMethods: commonMethods };
 })();
 base.init();
